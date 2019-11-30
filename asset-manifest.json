@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/intersection-observer-api/static/css/main.ca3f8d9a.chunk.css",
+    "main.js": "/intersection-observer-api/static/js/main.68207f10.chunk.js",
+    "main.js.map": "/intersection-observer-api/static/js/main.68207f10.chunk.js.map",
+    "runtime-main.js": "/intersection-observer-api/static/js/runtime-main.a9e45ff9.js",
+    "runtime-main.js.map": "/intersection-observer-api/static/js/runtime-main.a9e45ff9.js.map",
+    "static/js/2.28f4a2e0.chunk.js": "/intersection-observer-api/static/js/2.28f4a2e0.chunk.js",
+    "static/js/2.28f4a2e0.chunk.js.map": "/intersection-observer-api/static/js/2.28f4a2e0.chunk.js.map",
+    "index.html": "/intersection-observer-api/index.html",
+    "precache-manifest.2395759185f87bb2c4038b1eaff2f7f3.js": "/intersection-observer-api/precache-manifest.2395759185f87bb2c4038b1eaff2f7f3.js",
+    "service-worker.js": "/intersection-observer-api/service-worker.js",
+    "static/css/main.ca3f8d9a.chunk.css.map": "/intersection-observer-api/static/css/main.ca3f8d9a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e45ff9.js",
+    "static/js/2.28f4a2e0.chunk.js",
+    "static/css/main.ca3f8d9a.chunk.css",
+    "static/js/main.68207f10.chunk.js"
+  ]
+}
